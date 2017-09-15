@@ -3,9 +3,9 @@
     "name": "Janusz Wiśniowski",
     "label": "Software Engineer",
     "picture": "",
-    "email": "janusz.wisniowski.it gmail.com",
+    "email": "janusz.wisniowski.it@gmail.com",
     "phone": "(+48)693396618",
-    "website": "",
+    "website": "https://jannis-baratheon.github.io/resume/",
     "summary": "Skilled software engineer in business since 2006. Have taken part in many interesting ventures using a variety of modern technologies and programming languages on different operating systems (including multi-platform applications). My track-record includes participating in end-to-end design and development of scalable distributed systems as well as working alongside large, global customers and leading technical teams delivering solutions used by millions of users. Keeping deadlines, quickly making critical decisions, efficiently planning resources and estimating work precisely are my core skills. Mostly valued by peers for being a quick learner, reliable, self-reliant and precise. Have extensive experience working in teams distributed across the globe (including fully remote work with teams in APAC and NA). Willing to improve as a full-stack web developer using open technologies. Also interested in web user behavior and experience research (web analytics).",
     "location": {
       "address": "ul. Horbaczewskiego 7/24",
@@ -46,9 +46,9 @@
     {
       "company": "Infusion Development",
       "position": "Software Engineer",
-      "website": "",
-      "startDate": "2014.08",
-      "endDate": "2017.01",
+      "website": "https://www.infusion.com/",
+      "startDate": "2014-08",
+      "endDate": "2017-01",
       "summary": "",
       "highlights": [
         "Participated in many short-term delivery projects in various technologies (both frontend and backend)  for both external (mostly enterprise) and internal customers.",
@@ -66,9 +66,9 @@
     {
       "company": "Credit Suisse (via Infusion Development)",
       "position": "Software Engineer",
-      "website": "",
-      "startDate": "2012.06",
-      "endDate": "2014.07",
+      "website": "https://www.credit-suisse.com/pl/pl.html",
+      "startDate": "2012-06",
+      "endDate": "2014-07",
       "summary": "Credit Suisse Group AG is a Switzerland-based multinational financial services holding company headquartered in Zürich that operates the Credit Suisse Bank and other financial services investments. The bank engaged Infusion to help them with implementing the Strategic Risk Program - a movement towards the improvement and unification of the existing risk infrastructure.",
       "highlights": [
         "Helped Infusion deliver a toolset to support Credit-Suisse's main risk calculation engine - PriMo. The end product was called SWorM ('Scheduler WORkflow and Monitoring') and it improved the way the risk calculations run on top of PriMo are scheduled, designed, planned, and audited.",
@@ -80,8 +80,8 @@
       "company": "Opera Software",
       "position": "Software Engineer",
       "website": "http://www.opera.com/",
-      "startDate": "2009.01",
-      "endDate": "2012.05",
+      "startDate": "2009-01",
+      "endDate": "2012-05",
       "summary": "Opera Software is a global company primarily known for its multiplatform web browsers available for a vast selection of devices including mobiles and TVs. The company is involved in maintaining the web standards as a member of W3C. Apart from their browsers Opera's portfolio also includes network traffic optimization systems and advertisement services.",
       "highlights": [
         "Worked in Opera Mini department delivering a product which brings web-browsing capabilities to almost any device and provides a highly effective network traffic optimization engine.",
@@ -95,8 +95,8 @@
       "company": "Research & Engineering Center",
       "position": "Software Developer",
       "website": "http://www.rec-global.com/",
-      "startDate": "2008.10",
-      "endDate": "2008.12",
+      "startDate": "2008-10",
+      "endDate": "2008-12",
       "summary": "An automotive project for Continental AG. Mostly on-site training in the technologies, systems and procedures used in the automotive industry. The project ended prematurely.",
       "highlights": []
     },
@@ -104,8 +104,8 @@
       "company": "Power Media",
       "position": "Software Engineer",
       "website": "https://www.power.com.pl/",
-      "startDate": "2007.09",
-      "endDate": "2008.09",
+      "startDate": "2007-09",
+      "endDate": "2008-09",
       "summary": "Power Media is a Polish company providing software development, recruitment and IT personnel outsourcing services.",
       "highlights": [
         "Took part in front-end and back-end rework of the trip-selling engine at Travelplanet - the biggest Polish online travel broker.",
@@ -118,8 +118,8 @@
       "company": "InsERT",
       "position": "Software Engineer",
       "website": "https://www.insert.com.pl/",
-      "startDate": "2006.07",
-      "endDate": "2007.06",
+      "startDate": "2006-07",
+      "endDate": "2007-06",
       "summary": "InsERT is one of the best known Polish software houses offering products that support sales and production improving operations in accounting, financial, and human resources departments and facilitating the analysis of a company's overall standing. The software is aimed at small- and medium-sized businesses. Started at InsERT when an academic project with me on board was awarded 3rd place in \"Odkrywcy z kasą 2006\" competition set up by the company.",
       "highlights": [
         "Made an academic project of integrating InsERT's flagship SubiektGT with OsCommerce online store solution go commercial as oscGT.",
@@ -133,33 +133,33 @@
       "institution": "Wrocław University of Science and Technology",
       "area": "Computer Science (Information Systems)",
       "studyType": "Master of Science in Engineering",
-      "startDate": "2002.10",
-      "endDate": "2007.06",
+      "startDate": "2002-10",
+      "endDate": "2007-06",
       "gpa": "4.55 (2-5.5 scale)"
     }
   ],
   "awards": [
     {
       "title": "Code Complete",
-      "date": "2014.12",
+      "date": "2014-12",
       "awarder": "Infusion Development",
       "summary": "The award highlights teams or individuals for dedication on a project that has made a significant impact on the company in the areas of innovation. Awarded to the team I worked with on the SWorM project (at Credit Suisse)."
     },
     {
       "title": "Travelplanet's Award",
-      "date": "2008.05",
+      "date": "2008-05",
       "awarder": "Travelplanet.pl",
       "summary": "Awarded \"for masterly project performance\"."
     },
     {
       "title": "Odkrywcy z kasą 2006",
-      "date": "2006.05",
+      "date": "2006-05",
       "awarder": "InsERT",
       "summary": "3rd place awarded to an academic project by the ThinkWare team, which I was a part of, for developing an integration solution between InsERT's sales-support product with osCommerce - an open-source online store solution."
     },
     {
       "title": "Scientific Scolarship",
-      "date": "2003-2007",
+      "date": "2003",
       "awarder": "Wrocław University Of Technology",
       "summary": "Scientific scholarship awarded to students with GPA exceeding a particular threshold."
     }
