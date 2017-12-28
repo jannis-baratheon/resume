@@ -43,13 +43,27 @@
     ]
   },
   "work": [
+      {
+      "company": "Empirica",
+      "position": "Software Engineer",
+      "website": "http://empirica.pl/",
+      "startDate": "2017-02",
+      "endDate": "2017-12",
+      "summary": "A developing fin-tech firm from Wrocław, PL. specializing in creating Java/Spring/AngularJS solutions.",
+      "highlights": [
+        "Engaged in building Empirica's robo-advisory platform (Java/Spring/AngularJS)",
+        "Worked on adjusting company's algo-trading platform to MIFID2 directive (Java)",
+		"Designed, planned and partly developed a virtual payment terminal solution backed by Mangopay (Java/Spring/Mangopay API/AngularJS)",
+		"Worked on a critical back-office application and fitting it into a larger system developed for Credit Agricole EFL, one of the main customers (Java/Spring/AngularJS)"
+      ]
+    },
     {
       "company": "Infusion Development",
       "position": "Software Engineer",
       "website": "https://www.infusion.com/",
       "startDate": "2014-08",
       "endDate": "2017-01",
-      "summary": "",
+      "summary": "A global consultancy company, currently a part of Avanade.",
       "highlights": [
         "Participated in many short-term delivery projects in various technologies (both frontend and backend)  for both external (mostly enterprise) and internal customers.",
         "Worked in a team responsible for developing the rate calculation module in an insurance renewal SPA web application for MetLife (AngularJS / Java+Jersey+Hibernate).",
