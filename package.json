@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "hackmyresume": "^1.8.0",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-stackoverflow": "^1.4.0"
+  }
+}
