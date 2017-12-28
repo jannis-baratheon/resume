@@ -49,12 +49,13 @@
       "website": "http://empirica.pl/",
       "startDate": "2017-02",
       "endDate": "2017-12",
-      "summary": "A developing fin-tech firm from Wrocław, PL. specializing in creating Java/Spring/AngularJS solutions.",
+      "summary": "A developing firm from Wrocław specializing in creating fin-tech solutions using the Java/Spring/AngularJS stack.",
       "highlights": [
         "Engaged in building Empirica's robo-advisory platform (Java/Spring/AngularJS)",
-        "Worked on adjusting company's algo-trading platform to MIFID2 directive (Java)",
-		"Designed, planned and partly developed a virtual payment terminal solution backed by Mangopay (Java/Spring/Mangopay API/AngularJS)",
-		"Worked on a critical back-office application and fitting it into a larger system developed for Credit Agricole EFL, one of the main customers (Java/Spring/AngularJS)"
+        "Worked making company's algo-trading platform compliant with the MIFID2 directive (Java)",
+        "Designed, planned and partly developed a virtual payment terminal solution backed by Mangopay's Marketplace Payment Model (Java/Spring/Mangopay API/AngularJS)",
+        "Worked on a critical back-office application and fitting it into a larger system developed for Credit Agricole EFL, one of the main customers (Java/Spring/AngularJS)",
+        "Worked with junior- and mid- level developers on improving their coding and project skills"
       ]
     },
     {
