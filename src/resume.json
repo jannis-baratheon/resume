@@ -6,7 +6,7 @@
     "email": "janusz.wisniowski.it@gmail.com",
     "phone": "(+48)693396618",
     "website": "https://jannis-baratheon.github.io/resume/",
-    "summary": "Skilled software engineer in business since 2006. Have taken part in many interesting ventures using a variety of modern technologies and programming languages on different operating systems (including multi-platform applications). My track-record includes participating in end-to-end design and development of scalable distributed systems as well as working alongside large, global customers and leading technical teams delivering solutions used by millions of users. Keeping deadlines, quickly making critical decisions, efficiently planning resources and estimating work precisely are my core skills. Mostly valued by peers for being a quick learner, reliable, self-reliant and precise. Have extensive experience working in teams distributed across the globe (including fully remote work with teams in APAC and NA). Willing to improve as a full-stack web developer using open technologies. Also interested in web user behavior and experience research (web analytics).",
+    "summary": "A software engineer in business since 2006. Enthusiast of defaults, standards and best practices, opponent of \"reinventing the wheel\". Highly focused on creating software meeting highest architecture and code quality standards. Big fan of open software and agile methodologies. Values general computer skills over mastering a particular technology. Passionate mentor finding joy in helping others excel. Experienced in end-to-end design and development of scalable distributed systems as well as working alongside large, global customers and leading technical teams delivering solutions used by millions of users. Proven ability to work in globally-distributed teams.",
     "location": {
       "address": "ul. Horbaczewskiego 7/24",
       "postalCode": "54-130",
@@ -43,13 +43,28 @@
     ]
   },
   "work": [
+      {
+      "company": "Empirica",
+      "position": "Software Engineer",
+      "website": "http://empirica.pl/",
+      "startDate": "2017-02",
+      "endDate": "2017-12",
+      "summary": "A developing firm from Wrocław specializing in creating fin-tech solutions using the Java/Spring/AngularJS stack.",
+      "highlights": [
+        "Engaged in building Empirica's robo-advisory platform (Java/Spring/AngularJS)",
+        "Worked making company's algo-trading platform compliant with the MIFID2 directive (Java)",
+        "Designed, planned and partly developed a virtual payment terminal solution backed by Mangopay's Marketplace Payment Model (Java/Spring/Mangopay API/AngularJS)",
+        "Worked on a critical back-office application and fitting it into a larger system developed for Credit Agricole EFL, one of the main customers (Java/Spring/AngularJS)",
+        "Worked with junior- and mid- level developers on improving their coding and project skills"
+      ]
+    },
     {
       "company": "Infusion Development",
       "position": "Software Engineer",
       "website": "https://www.infusion.com/",
       "startDate": "2014-08",
       "endDate": "2017-01",
-      "summary": "",
+      "summary": "A global consultancy company, currently part of Avanade.",
       "highlights": [
         "Participated in many short-term delivery projects in various technologies (both frontend and backend)  for both external (mostly enterprise) and internal customers.",
         "Worked in a team responsible for developing the rate calculation module in an insurance renewal SPA web application for MetLife (AngularJS / Java+Jersey+Hibernate).",
@@ -264,6 +279,14 @@
     {
       "name": "Kuba Puchar - Country Manager @ Opera Software",
       "reference": "We found Mr. Wiśniowski as very skilled, innovative, self-driven and reliable software developer and we are really sorry he decided to leave our company."
+    },
+    {
+      "name": "Patryk Stopyra - Software Developer @ Empirica",
+      "reference": "I worked together with Janusz in a successful IT project for financial industry. I was amazed at his passion to sharing his knowledge, experience and helping others. I really appreciated also his directness - he does not mince his words, what is very important in maintaining effective team communication and good ambiance. I have learned a lot from Janusz and I wish I could meet him again in another project."
+    },
+    {
+      "name": "Marek Kuźniar - Software Developer @ Empirica",
+      "reference": "Janusz is great mentor with a lot of knowledge and the ability to pass it further. Working with him was a pleasure."
     }
   ]
 }
