@@ -60,6 +60,10 @@ async@^1.2.1, async@^1.4.0, async@^1.4.2:
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
 
+async@~0.2.6:
+  version "0.2.10"
+  resolved "https://registry.yarnpkg.com/async/-/async-0.2.10.tgz#b6bbe0b0674b9d719708ca38de8c237cb526c3d1"
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
@@ -295,6 +299,14 @@ hackmyresume@^1.8.0:
     xml-escape "^1.0.0"
     yamljs "^0.2.4"
 
+handlebars@^2.0.0-alpha.4:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-2.0.0.tgz#6e9d7f8514a3467fa5e9f82cc158ecfc1d5ac76f"
+  dependencies:
+    optimist "~0.3"
+  optionalDependencies:
+    uglify-js "~2.3"
+
 handlebars@^4.0.10, handlebars@^4.0.5:
   version "4.0.11"
   resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.11.tgz#630a35dfe0294bc281edae6ffc5d329fc7982dcc"
@@ -412,6 +424,12 @@ jsonpointer@^4.0.0:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/jsonpointer/-/jsonpointer-4.0.1.tgz#4fd92cb34e0e9db3c89c8622ecf51f9b978c6cb9"
 
+jsonresume-theme-flat@^0.3.7:
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/jsonresume-theme-flat/-/jsonresume-theme-flat-0.3.7.tgz#a264f00d6c5850dd7c4b5c15d64204d213a85552"
+  dependencies:
+    handlebars "^2.0.0-alpha.4"
+
 jsonresume-theme-stackoverflow@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/jsonresume-theme-stackoverflow/-/jsonresume-theme-stackoverflow-1.4.0.tgz#9e9c95697f11b046a6ec76870798b761be5074d0"
@@ -527,6 +545,12 @@ optimist@^0.6.1:
     minimist "~0.0.1"
     wordwrap "~0.0.2"
 
+optimist@~0.3, optimist@~0.3.5:
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/optimist/-/optimist-0.3.7.tgz#c90941ad59e4273328923074d2cf2e7cbc6ec0d9"
+  dependencies:
+    wordwrap "~0.0.2"
+
 parse-filepath@^0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/parse-filepath/-/parse-filepath-0.6.3.tgz#38e17a73e5e4e6776bae9506fc3ccb14bc3a2b80"
@@ -616,6 +640,12 @@ source-map@^0.4.4:
   dependencies:
     amdefine ">=0.0.4"
 
+source-map@~0.1.7:
+  version "0.1.43"
+  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.1.43.tgz#c24bc146ca517c1471f5dacbe2571b2b7f9e3346"
+  dependencies:
+    amdefine ">=0.0.4"
+
 source-map@~0.5.1:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
@@ -672,6 +702,14 @@ uglify-js@^2.6:
     yargs "~3.10.0"
   optionalDependencies:
     uglify-to-browserify "~1.0.0"
+
+uglify-js@~2.3:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-2.3.6.tgz#fa0984770b428b7a9b2a8058f46355d14fef211a"
+  dependencies:
+    async "~0.2.6"
+    optimist "~0.3.5"
+    source-map "~0.1.7"
 
 uglify-to-browserify@~1.0.0:
   version "1.0.2"
