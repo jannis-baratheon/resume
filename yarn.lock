@@ -307,7 +307,7 @@ handlebars@^2.0.0-alpha.4:
   optionalDependencies:
     uglify-js "~2.3"
 
-handlebars@^4.0.10, handlebars@^4.0.5:
+handlebars@^4.0.5:
   version "4.0.11"
   resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.11.tgz#630a35dfe0294bc281edae6ffc5d329fc7982dcc"
   dependencies:
@@ -424,18 +424,17 @@ jsonpointer@^4.0.0:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/jsonpointer/-/jsonpointer-4.0.1.tgz#4fd92cb34e0e9db3c89c8622ecf51f9b978c6cb9"
 
+jsonresume-theme-flat-custom@jannis-baratheon/jsonresume-theme-flat#v0.0.1:
+  version "0.3.7"
+  resolved "https://codeload.github.com/jannis-baratheon/jsonresume-theme-flat/tar.gz/75d924c6126fa8e44d1562f158495ec160b679f1"
+  dependencies:
+    handlebars "^2.0.0-alpha.4"
+
 jsonresume-theme-flat@^0.3.7:
   version "0.3.7"
   resolved "https://registry.yarnpkg.com/jsonresume-theme-flat/-/jsonresume-theme-flat-0.3.7.tgz#a264f00d6c5850dd7c4b5c15d64204d213a85552"
   dependencies:
     handlebars "^2.0.0-alpha.4"
-
-jsonresume-theme-stackoverflow@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/jsonresume-theme-stackoverflow/-/jsonresume-theme-stackoverflow-1.4.0.tgz#9e9c95697f11b046a6ec76870798b761be5074d0"
-  dependencies:
-    handlebars "^4.0.10"
-    moment "^2.18.1"
 
 kind-of@^3.0.2:
   version "3.2.2"
@@ -517,7 +516,7 @@ mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-moment@^2.11.1, moment@^2.18.1:
+moment@^2.11.1:
   version "2.20.1"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.20.1.tgz#d6eb1a46cbcc14a2b2f9434112c1ff8907f313fd"
 
