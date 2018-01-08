@@ -7,10 +7,12 @@ node_modules/hackmyresume/dist/cli/index.js BUILD src/resume.json TO out/resume.
 node_modules/hackmyresume/dist/cli/index.js BUILD src/resume.json TO out/resume.pdf -t node_modules/jsonresume-theme-flat
 
 mkdir -p target/resumes
+mkdir -p target/css
 mkdir -p target/vendor/css
 mkdir -p target/vendor/js
 
 cp src/index.html target
+cp src/style.css target/css
 cp out/resume.html out/resume.pdf target/resumes
 
 # css
