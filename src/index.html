@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-	<meta name="title" content="Janusz Wiśniowski - Software Engineer">
+	<title>Janusz Wiśniowski - Software Engineer</title>
 	<meta name="description" content="A software engineer in business since 2006. Enthusiast of defaults, standards and best practices, opponent of 'reinventing the wheel'. Highly focused on creating software meeting highest architecture and code quality standards. Big fan of open software and agile methodologies. Passionate mentor finding joy in helping others excel. Proven ability to work in globally-distributed teams.">
 	<meta name="keywords" content="software engineer,software developer,programmer,developer,java,javascript,resume,professional resume,it">
 	<meta name="author" content="Janusz Wiśniowski">
@@ -12,18 +12,21 @@
 	<link href="css/style.css" rel="stylesheet">
 </head>
 <body>
-	<iframe src="resumes/resume.html" class="fill-viewport">
+	<iframe src="resumes/resume.html" class="fill-viewport" onload="focus()">
 		The page couldn't be displayed properly because your browser doesn't support iframes. From here you can <a href="resume.html">see the HTML version of my resume</a> or <a href="resume.pdf">download it as PDF</a>.
 	</iframe>
 	
 	<div class="fixed-bottom d-flex justify-content-center">
      	<div class="border border-bottom-0 border-secondary rounded-top bg-light text-muted">
+			<div class="p-2">Download as PDF</div>
+			<!--
 			<ul class="list list-inline p-1 m-0">
 				<li class="list-inline-item">.zip</li>
 				<li class="list-inline-item">.pdf</li>
 				<li class="list-inline-item">.txt</li>
 				<li class="list-inline-item">.md</li>
 			</ul>
+			-->
 		</div>
 	</div>
 	
@@ -33,5 +36,6 @@
     <script src="vendor/js/jquery.slim.min.js"></script>
     <script src="vendor/js/popper.min.js"></script>
     <script src="vendor/js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
 </body>
 </html>
