@@ -3,10 +3,9 @@
     "name": "Janusz Wiśniowski",
     "label": "Software Engineer",
     "picture": "",
-    "email": "janusz.wisniowski.it@gmail.com",
-    "phone": "(+48)693396618",
-    "website": "https://jannis-baratheon.github.io/resume/",
-    "summary": "A software engineer in business since 2006. Enthusiast of defaults, standards and best practices, opponent of \"reinventing the wheel\". Highly focused on creating software meeting highest architecture and code quality standards. Big fan of open software and agile methodologies. Values general computer skills over mastering a particular technology. Passionate mentor finding joy in helping others excel. Experienced in end-to-end design and development of scalable distributed systems as well as working alongside large, global customers and leading technical teams delivering solutions used by millions of users. Proven ability to work in globally-distributed teams.",
+    "email": "janusz(@at)januszwisniowski(.dot)it",
+    "website": "https://januszwisniowski.it/",
+    "summary": "A software engineer in business since 2006. Enthusiast of defaults, standards and best practices, opponent of \"reinventing the wheel\". Highly focused on creating software meeting highest architecture and code quality standards. Big fan of open software and agile methodologies. Values general computer skills over mastering a particular technology. Passionate mentor finding joy in helping others excel. Experienced in end-to-end design and development of scalable distributed systems. Worked alongside large, global customers and leading technical teams delivering solutions used by millions of users. Has proven ability to work in globally-distributed teams.",
     "location": {
       "address": "ul. Horbaczewskiego 7/24",
       "postalCode": "54-130",
@@ -52,7 +51,7 @@
       "summary": "A developing firm from Wrocław specializing in creating fin-tech solutions using the Java/Spring/AngularJS stack.",
       "highlights": [
         "Engaged in building Empirica's robo-advisory platform (Java/Spring/AngularJS)",
-        "Worked making company's algo-trading platform compliant with the MIFID2 directive (Java)",
+        "Worked on making company's algorithmic trading platform compliant with the MIFID2 directive (Java)",
         "Designed, planned and partly developed a virtual payment terminal solution backed by Mangopay's Marketplace Payment Model (Java/Spring/Mangopay API/AngularJS)",
         "Worked on a critical back-office application and fitting it into a larger system developed for Credit Agricole EFL, one of the main customers (Java/Spring/AngularJS)",
         "Worked with junior- and mid- level developers on improving their coding and project skills"
