@@ -20,6 +20,7 @@ cp src/index.html target
 cp src/style.css target/css
 cp src/script.js target/js
 cp out/resume.html out/resume.pdf target/resumes
+./node_modules/bestzip/bin/cli.js target/resumes/resume.zip target/resumes/resume.*
 
 # css
 cp node_modules/bootstrap/dist/css/bootstrap.min.css target/vendor/css

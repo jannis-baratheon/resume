@@ -1,6 +1,7 @@
 {
   "license": "MIT",
   "dependencies": {
+    "bestzip": "^1.1.4",
     "bootstrap": "4.0.0-beta.3",
     "devicons": "^1.8.0",
     "font-awesome": "^4.7.0",
