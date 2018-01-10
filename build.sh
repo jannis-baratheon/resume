@@ -7,6 +7,8 @@ rm -rf target
 # build resume
 node_modules/hackmyresume/dist/cli/index.js BUILD src/resume.json TO out/resume.html -t node_modules/jsonresume-theme-flat-custom
 node_modules/hackmyresume/dist/cli/index.js BUILD src/resume.json TO out/resume.pdf -t node_modules/jsonresume-theme-flat
+node_modules/hackmyresume/dist/cli/index.js BUILD src/resume.json TO out/resume.txt
+node_modules/hackmyresume/dist/cli/index.js BUILD src/resume.json TO out/resume.md
 
 # create target directory structure
 mkdir -p target/resumes
@@ -19,7 +21,7 @@ mkdir -p target/vendor/fonts
 cp src/index.html target
 cp src/style.css target/css
 cp src/script.js target/js
-cp out/resume.html out/resume.pdf target/resumes
+cp out/resume.html out/resume.pdf out/resume.txt out/resume.md target/resumes
 ./node_modules/bestzip/bin/cli.js target/resumes/resume.zip target/resumes/resume.*
 
 # css
