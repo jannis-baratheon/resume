@@ -14,6 +14,7 @@ mkdir -p target/css
 mkdir -p target/js
 mkdir -p target/vendor/css
 mkdir -p target/vendor/js
+mkdir -p target/vendor/fonts
 
 cp src/index.html target
 cp src/style.css target/css
@@ -27,3 +28,9 @@ cp node_modules/bootstrap/dist/css/bootstrap.min.css target/vendor/css
 cp node_modules/bootstrap/dist/js/bootstrap.min.js target/vendor/js
 cp node_modules/jquery/dist/jquery.slim.min.js target/vendor/js
 cp node_modules/popper.js/dist/umd/popper.min.js target/vendor/js
+
+# fonts
+mkdir -p target/vendor/fonts/font-awesome
+cp -r node_modules/font-awesome/css node_modules/font-awesome/fonts target/vendor/fonts/font-awesome
+mkdir -p target/vendor/fonts/devicons
+cp -r node_modules/devicons/css node_modules/devicons/fonts target/vendor/fonts/devicons
