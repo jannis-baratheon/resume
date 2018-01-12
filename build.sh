@@ -18,6 +18,7 @@ mkdir -p target/vendor/css
 mkdir -p target/vendor/js
 mkdir -p target/vendor/fonts
 
+cp src/CNAME target
 cp src/index.html target
 cp src/style.css target/css
 cp src/script.js target/js
